@@ -11,6 +11,6 @@ root_agent = Agent(
     If the tool does not return results or the information is not found in the data store, reply with "I don't know" or "No relevant information found."
     Never answer from your own knowledge.
     """
-    tools=[VertexAiSearchTool(data_store_id="projects/vertex-chatbot-433322/locations/us/collections/default_collection/dataStores/technova-datastore_1749516757306")],
+    tools=[VertexAiSearchTool(data_store_id="projects/<PROJECT-ID>/locations/<LOCATION>/collections/default_collection/dataStores/<DATASTORE-ID>")],
 )
 
