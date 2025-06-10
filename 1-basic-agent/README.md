@@ -36,6 +36,7 @@ Follow these steps to get your basic greeting agent running in a web interface:
 
     ```
     cd google-adk-agents/1-basic-agent
+    source adk/bin/activate 
     adk web
 
     ```
