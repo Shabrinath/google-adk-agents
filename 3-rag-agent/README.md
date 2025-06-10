@@ -169,7 +169,7 @@ After completing all the setup and configuration steps, you are ready to run the
 2.  **Launch the ADK web interface:** Execute the `adk web` command:
 
     ```
-    
+    source adk/bin/activate #activate virtual environment if not activated already
     adk web
 
     ```
