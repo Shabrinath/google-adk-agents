@@ -46,6 +46,8 @@ This advanced example demonstrates how to build a Retrieval Augmented Generation
 
 -   Emphasis on controlled information access, crucial for enterprise-grade AI applications.
 
+<img width="1431" alt="image" src="https://github.com/user-attachments/assets/eecf142b-2c37-495a-a148-afac8103a180" />
+
 Installation
 ------------
 
