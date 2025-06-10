@@ -19,6 +19,7 @@ This is a foundational example demonstrating the basic structure of an ADK agent
 -   Basic agent definition with `name`, `model`, `description`, and `instruction`.
 
 -   Direct interaction based on predefined instructions.
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/5dbe3125-d503-4576-ac56-22bd0484243d" />
 
 ### 2\. Google Search Integration Agent 
 
