@@ -64,9 +64,9 @@ To get started with these examples, you'll need to set up your Python environmen
 2.  **Create and activate a virtual environment:** It's highly recommended to use a virtual environment to manage dependencies.
 
     ```
-    python -m venv .venv
-    source .venv/bin/activate  # On Linux/macOS
-    # .venv\Scripts\activate   # On Windows
+    python -m venv adk
+    source adk/bin/activate  # On Linux/macOS
+    # .adk\Scripts\activate   # On Windows
 
     ```
 
