@@ -30,6 +30,7 @@ Building upon the simple greeting agent, this example integrates the `google_sea
 -   Utilization of the `google_search` tool from `google.adk.tools`.
 
 -   Ability to perform web searches to answer user queries.
+<img width="1435" alt="image" src="https://github.com/user-attachments/assets/3ba8c3cf-8f02-4197-8c61-defb781127e9" />
 
 ### 3\. RAG Agent with Vertex AI Search 
 
