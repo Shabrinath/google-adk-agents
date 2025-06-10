@@ -107,6 +107,8 @@ You need to configure both your environment variables and the `agent.py` file to
     # .env file content
     GOOGLE_API_KEY=AIzaSyAs60xh1XjJzYPBEdgAHb_stB_oVqKWxTw # Replace with your key
     GOOGLE_GENAI_USE_VERTEXAI=TRUE
+    GOOGLE_CLOUD_PROJECT=vertex-chatbot-433322   # Replace with your project
+    GOOGLE_CLOUD_LOCATION=us-central1 # Replace with your location
 
     ```
 
@@ -167,6 +169,7 @@ After completing all the setup and configuration steps, you are ready to run the
 2.  **Launch the ADK web interface:** Execute the `adk web` command:
 
     ```
+    
     adk web
 
     ```
