@@ -1,6 +1,15 @@
 # google-adk-agents
 This repository showcases three distinct types of agents built with the ADK.
 
+## 🧠 What is ADK?
+
+**Google’s Agent Development Kit (ADK)** is a lightweight framework for building multi-modal, tool-using AI agents that run in your local environment — similar to how ChatGPT agents work.
+
+With ADK, you can:
+- Build custom AI assistants
+- Extend them with external tools (APIs, search, databases)
+- Run them locally via a web UI
+
 ### 1\. Simple Greeting Agent 
 
 This is a foundational example demonstrating the basic structure of an ADK agent. It's designed to be a helpful and funny assistant that initiates a conversation by asking for the user's name and then greeting them personally.
