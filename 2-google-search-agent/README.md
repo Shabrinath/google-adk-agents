@@ -36,6 +36,7 @@ Follow these steps to get your Google Search agent running in a web interface:
 
     ```
     cd google-adk-agents/2-google-search-agent
+    source adk/bin/activate #activate virtual environment if not activated already
     adk web
 
     ```
